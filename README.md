@@ -21,7 +21,8 @@ The aim is to explore factors like pricing, availability, and customer satisfact
 ## 👨‍💻 Author
 **Majid Qurashi**  
 🎓 Government College of Engineering & Technology, Kashmir  
-📚 6th Semester – Computer Science & Engineering  
+📚 6th Semester 
+💻 Computer Science & Engineering  
 
 ---
 
