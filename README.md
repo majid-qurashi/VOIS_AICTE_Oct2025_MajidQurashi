@@ -27,8 +27,7 @@ The aim is to explore factors like pricing, availability, and customer satisfact
 ---
 
 ## ⚙️ Technologies Used
-- 🐍 Python  
-- 📒 Jupyter Notebook  
+- 🐍 Python    
 - 📊 Pandas, NumPy  
 - 🎨 Matplotlib, Seaborn  
 
